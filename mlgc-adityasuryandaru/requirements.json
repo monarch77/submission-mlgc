@@ -1,0 +1,6 @@
+{
+    "backend-service-url": "https://mlgc-adityasuryandaru-hepbvu72oq-et.a.run.app",
+    "frontend-service-url": "submissionmlgc-adityasurya.et.r.appspot.com",
+    "project-id": "submissionmlgc-adityasurya",
+    "bucket-name": "velvet-bucket"
+}
